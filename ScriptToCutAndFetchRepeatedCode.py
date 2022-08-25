@@ -430,3 +430,5 @@ for x in emojis_list:
     print("    return")
     print("btn"+str(i)+"=Button(root,text=\'"+"\\U000"+x+"\',command=enter"+x+",width=5,font=(\"Arial\", 15), cursor=\"hand2\" , bg=\"#a9dce3\")")
     print("btn"+str(i)+".place(x=5,y=70)")
+
+# NOTE: All my documentation for unicode emojis is from this site: https://unicode.org/Public/emoji/15.0/emoji-test.txt
