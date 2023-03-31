@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">Features:</h3>
 <div>
-   <p>Copy and Use all available emojis</p>
+   <p>This is a desktop python program that allows you to select, copy and use emojis. (it includes the specific icon of the emoji in the keyboard, also it includes the most available emojis about 1600).</p>
 </div>
 <h3 align="left">View:</h3>
 <div align="center">
